@@ -26,7 +26,7 @@
 
 ## 團隊
 
-- [Allen](https://github.com/eepson123tw) — 前端
+- [Aaron](https://github.com/eepson123tw) — 前端
 - [YF](https://github.com/YFCKevin) — 後端
 
 2025 Q2 開始開發，2025 Q4 上線。
