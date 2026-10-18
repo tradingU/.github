@@ -22,7 +22,7 @@
 | `trading-source` | 監看 YouTube 財經頻道等來源，用 Gemini 產生摘要與總經晨報，推送到後端 | Python、FastAPI |
 | `Tideline` | 情境分析引擎：從新聞與分析師觀點偵測分歧、推演多條情境、產生社群圖卡（開發中） | Python、Node.js |
 | `trading-device` | ESP32-S3 股票顯示裝置韌體，32×16 LED 點陣面板 | C++、PlatformIO |
-| `trading-ai` | 多代理人個股研究實驗（LangGraph） | Python |
+| `trading-ai` | 多代理人個股研究實驗（LangGraph，已封存） | Python |
 
 ## 團隊
 
