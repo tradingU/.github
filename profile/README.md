@@ -19,7 +19,7 @@
 | `trading-frontend` | 主站 www.tradingnote.tw | Next.js 15、React 19、TypeScript、Tailwind CSS 4、klinecharts |
 | `trading-backend` | 主後端 API（gurula.cc）：會員、新聞、筆記、報告、版面、交易紀錄 | Java、Spring Boot |
 | `trading-tw-market` | 台股盤後資料 API（api.tradingnote.tw）與獨立前端（stock.tradingnote.tw）：抓取 TWSE／TAIFEX／MOPS 資料、總經評分、AI 解盤 | Python、Flask、PostgreSQL、React、Vite |
-| `trading-source` | 監看 YouTube 財經頻道等來源，用 Gemini 產生摘要與總經晨報，推送到後端 | Python、FastAPI |
+| `trading-source` | 財經資訊整理工具：彙整公開市場資訊，產生每日總經晨報 | Python、FastAPI |
 | `Tideline` | 情境分析引擎：從新聞與分析師觀點偵測分歧、推演多條情境、產生社群圖卡（開發中） | Python、Node.js |
 | `trading-device` | ESP32-S3 股票顯示裝置韌體，32×16 LED 點陣面板 | C++、PlatformIO |
 | `trading-ai` | 多代理人個股研究實驗（LangGraph，已封存） | Python |
