@@ -29,4 +29,4 @@
 - [Aaron](https://github.com/eepson123tw) — 前端
 - [YF](https://github.com/YFCKevin) — 後端
 
-2025 Q2 開始開發，2025 Q4 上線。
+2025 Q2 開始開發，2025 Q4 上線，目前持續開發中（更新於 2026 年 10 月）。
