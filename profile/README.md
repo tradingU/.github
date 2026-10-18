@@ -4,7 +4,7 @@
 
 [網站](https://www.tradingnote.tw) · [使用說明](https://www.tradingnote.tw/help) · [方案與定價](https://www.tradingnote.tw/pricing) · [LINE 官方帳號](https://line.me/R/ti/p/@613hozli)
 
-[![TradingNote：從每日盤後到交易紀錄，一個地方走完](./og-image.png)](https://www.tradingnote.tw)
+[![TradingNote：從每日盤後到交易紀錄，一個地方走完](https://raw.githubusercontent.com/tradingU/.github/main/profile/og-image.png)](https://www.tradingnote.tw)
 
 ## 產品
 
